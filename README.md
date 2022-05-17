@@ -3,7 +3,7 @@
 
 Recently graduated with a diploma in Computer Programming from Algonquin College.
 
-I am passionate about designing applications that allow me to expand my knowledge in the software development field.
+I am passionate about designing software applications that allow me to expand my knowledge in the software development field.
 ______________________________________________________________________________________________________________________________________________________________________
 
 ### 🛠️ Languages and Tools
