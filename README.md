@@ -3,7 +3,7 @@
 
 Recently graduated with a diploma in Computer Programming from Algonquin College.
 
-I am passionate about designing applications that are outside of my comfort zone and skill set, as learning new languages and development techniques are important to me.
+I am passionate about designing applications that allow me to expand my knowledge in the software development field.
 ______________________________________________________________________________________________________________________________________________________________________
 
 ### 🛠️ Languages and Tools
@@ -17,4 +17,5 @@ ________________________________________________________________________________
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MicrosoftSQLServer" alt="MicrosoftSQLServer" width="40" height="40"/>&nbsp;
 </div>
