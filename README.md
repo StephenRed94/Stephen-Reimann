@@ -1,2 +1,4 @@
 # Stephen-Reimann
-About Me!
+About Me
+Recently graduated with a diploma in Computer Programming from Algonquin College.
+
